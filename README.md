@@ -39,3 +39,7 @@ To get started with our code:
 
    git clone https://github.com/tangzhengxu2001/m4oe.git
    pip install -r dependency.txt
+
+## Contact
+
+tangzhengxu2001@gmail.com
